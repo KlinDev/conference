@@ -51,7 +51,7 @@ ul {
     top: 0;
     padding: 20px;
     width: 100%;
-    transition: .3s ease;
+    transition: .5s ease;
 }
 .header-wrap {
     margin: 0 auto;
