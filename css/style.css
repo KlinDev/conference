@@ -1,4 +1,4 @@
-@import url("/css/font.css");
+@import url("../css/font.css");
 
 html {
     font-size: 10px;
@@ -178,7 +178,7 @@ header.small {
 /* main section  ********************************/
 .main-section {
     padding:120px 0 85px;
-    background: url(/img/main-section-bg.png) no-repeat center;
+    background: url(../img/main-section-bg.png) no-repeat center;
     background-size: cover;
 }
 .event-links {
