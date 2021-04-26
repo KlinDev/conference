@@ -227,7 +227,7 @@ section.invitation  {
     color: #000;
 } 
 .invitation .logo {
-  background: url(/img/logo.png) no-repeat center;
+  background: url(../img/logo.png) no-repeat center;
   background-size: cover;
   margin-right: 50px;
   max-width: 227px;
@@ -425,7 +425,7 @@ a.btn.insta-link {
     bottom: -100px;
     width: 95px;
     height: 113px;
-    background: url(/img/arrow-red.png) no-repeat center;
+    background: url(../img/arrow-red.png) no-repeat center;
     background-size: cover;
     left: 10%;
 }
